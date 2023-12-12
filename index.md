@@ -4,3 +4,7 @@
 ``` javascript
 int myInteger = 0;
 ```
+
+- [x] Add a checklist
+- [ ] eat dinner
+- [ ] play a game
